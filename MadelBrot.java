@@ -1,4 +1,4 @@
-public class MandelBrot
+public class MadelBrot
 {
 
 }
